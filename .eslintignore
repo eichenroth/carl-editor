@@ -1,0 +1,5 @@
+*.md
+build/
+node_modules/
+src/react-app-env.d.ts
+src/utils/tenant-resolver/api.ts
